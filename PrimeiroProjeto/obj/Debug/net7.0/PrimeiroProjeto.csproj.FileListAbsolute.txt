@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll
